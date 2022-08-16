@@ -5,18 +5,18 @@ Use Seaborn and Matplotlib to create data visualizations that communicate valuab
 
 ### Project Scoping
 * Inspect raw data (Exploratory Data Analysis)
-** Inspect columns, data types, null counts by column, print rows with nulls, etc.
-** Clean data as needed following initial inspection
+	* Inspect columns, data types, null counts by column, print rows with nulls, etc.
+	* Clean data as needed following initial inspection
 * Identify potentially valuable visualizations
-** Identify possible questions that can be answered
-** Seek data that can be used to answer these questions
-** Identify appropriate charts to effectively communicate this data
+	* Identify possible questions that can be answered
+	* Seek data that can be used to answer these questions
+	* Identify appropriate charts to effectively communicate this data
 * Generate visualizations
-** Apply appropriate labels, naming, coloring, etc.
+	* Apply appropriate labels, naming, coloring, etc.
 * Examine chart/graph and determine if any additional filtering / cleaning / styling changes are required
-** Does each visualization have a clear purpose and do they communicate this purpose effectively?
-** Are the intended questions easily answered with the visualizations?
-** Can the visualization be simplified?
+	* Does each visualization have a clear purpose and do they communicate this purpose effectively?
+	* Are the intended questions easily answered with the visualizations?
+	* Can the visualization be simplified?
 * Regenerate visualization with improvements
 * Repeat final 2 steps as necessary 
 
