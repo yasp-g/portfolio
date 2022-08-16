@@ -1,24 +1,26 @@
 # Life Expectancy and GDP Project
 ## Project Objectives
-Use Seaborn and Matplotlib to create data visualizations that convey valuable insights into the relationship between GDP and life expectancy of six countries. The provided data will need to be preprocessed for optimal data analysis and visualization.
+Use Seaborn and Matplotlib to create data visualizations that communicate valuable insights from the provided data on GDP and life expectancy of six countries. The provided data will need to be preprocessed (cleaned & prepared) for effective data analysis and visualization.
 
 
 ### Project Scoping
 * Inspect raw data (Exploratory Data Analysis)
 ** Inspect columns, data types, null counts by column, print rows with nulls, etc.
-** Clean data as needed following
+** Clean data as needed following initial inspection
 * Identify potentially valuable visualizations
-** Identify needed data
+** Identify possible questions that can be answered
+** Seek data that can be used to answer these questions
+** Identify appropriate charts to effectively communicate this data
 * Generate visualizations
-** Apply adequate labels, naming, coloring, etc.
-* Examine chart/graph and determine if any additional filtering / cleaning is required
-** Can the visualization better / more easily display valuable information?
+** Apply appropriate labels, naming, coloring, etc.
+* Examine chart/graph and determine if any additional filtering / cleaning / styling changes are required
+** Does each visualization have a clear purpose and do they communicate this purpose effectively?
+** Are the intended questions easily answered with the visualizations?
+** Can the visualization be simplified?
 * Regenerate visualization with improvements
 * Repeat final 2 steps as necessary 
 
-Goal: generate data visualizations that convey valuable insights into the relationship between GDP and life expectancy of six countries
-
-Actions: write blog post describing findings
+Goal: generate data visualizations that communicate valuable insights into the relationship between GDP and life expectancy of six countries.
 
 Data: data is provided by codecademy.com. For the sake of this project all needed data has been provided.
 
